@@ -2,15 +2,19 @@
   text-align: center;
   font-size: 50px;
   background-color: blue;
-  float: top;
+  padding: 5px;
 }
 #teste{
   text-align: center;
   font-size: 50px;
   background-color: green;
+  height: 750px;
   float: middle;
+  padding: 5px;
 }
 #tester{
+text-align: center;
   font-size: 50px;
-  background-color:darkcyan
+  background-color:darkcyan;
+  padding: 5px;
 }
