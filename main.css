@@ -1,18 +1,6 @@
-h1{
-    color:rgb(68, 199, 16);
+.personal{
+  font-size: 50px;
 }
-div.style {
-    background-color: red;
-    
-    
-}
-div.styl {
-    background-color: rgb(155, 201, 28);
-    
-    
-}
-div.sty {
-    background-color: rgb(41, 43, 165);
-    
-    
+.ad{
+    font-size: 30px;
 }
