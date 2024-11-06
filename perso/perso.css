@@ -1,4 +1,28 @@
-.trophée{
-    color: blue;
-    font-size: 30px
+.titre{
+    color: rgb(255, 0, 0);
+    font-size: 50px;
 }
+.info persdonelle{
+    font-size: 30px;
+}
+.compétence{
+    font-size: 50px;
+    color: red;
+}
+.ligne{
+    color: white;
+}
+c
+  
+.bande-rouge {
+    background-color: red;
+    height: 50px;
+    width: 100%;
+ }
+  
+.bande-bleue {
+    background-color: blue;
+    height: 50px;
+    width: 100%;
+ }
+ 
